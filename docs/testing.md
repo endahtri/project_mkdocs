@@ -23,5 +23,7 @@ to make a type specimen book. It has survived not only five centuries, but also 
  making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of 
  the more obscure Latin words, consectetur, Please see the [details](license.md) for further details.
  
+4. **Management Conflic** - Testing managemen konflik di github. 
+ 
 
 
