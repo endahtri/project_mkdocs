@@ -15,8 +15,8 @@ to make a type specimen book. It has survived not only five centuries, but also 
  making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of 
  the more obscure Latin words, consectetur, Please see the [details](license.md) for further details.
 
-a. satu dua tiga
-b. tiga dua satu
+a. pokemon go
+b. shiny pikachu
 
 2. **Contrary to popular** - belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC,
  making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of 
